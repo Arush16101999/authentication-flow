@@ -1,3 +1,8 @@
+## Start
+
+npm i
+npm run dev
+
 ## UI Flow
 
 ![alt text](loginimg.png)
